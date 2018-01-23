@@ -7,6 +7,7 @@ This folder contains all needed code to preprocess raw data. The raw data is fir
 - GS_DATA_DownloadCDAwebData_ACE.py
 - GS_DATA_DownloadCDAwebData_ElectronPitchAngle.py
 
-These three files are used to download data observed by Wind spacecraft or ACE spacecrafts.  
-GS_DATA_DownloadCDAwebData_WIND.py downloads magnetic field data, solar wind data, and electron temprature data from Wind spacecraft.  GS_DATA_DownloadCDAwebData_ACE.py downloads magnetic field data, solar wind data (Np, V_GSE, Thermal speed, and Alpha/Proton ratio), and EPAM data (ions, channel P1 to P8) from ACE spacecraft.  
+These three files are used to download data observed by Wind spacecraft or ACE spacecrafts.<br />
+GS_DATA_DownloadCDAwebData_WIND.py downloads magnetic field data, solar wind data, and electron temprature data from Wind spacecraft.<br />
+GS_DATA_DownloadCDAwebData_ACE.py downloads magnetic field data, solar wind data (Np, V_GSE, Thermal speed, and Alpha/Proton ratio), and EPAM data (ions, channel P1 to P8) from ACE spacecraft.<br />
 GS_DATA_DownloadCDAwebData_ElectronPitchAngle.py downloads electron pitch angle data from Wind spacecraft.  
