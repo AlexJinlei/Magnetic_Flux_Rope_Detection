@@ -15,6 +15,11 @@ GS_DATA_DownloadCDAwebData_ACE.py downloads magnetic field data, solar wind data
 
 GS_DATA_DownloadCDAwebData_ElectronPitchAngle.py downloads electron pitch angle data from Wind spacecraft.
 
-Please specify year, start date and end date in each code. Besides that, you may want to change the directories to save downloaded data.
+Please specify year, start date and end date in the first a few lines in each code. Besides that, you may want to change the directories to save downloaded data.
 
-### 2) Download data
+### 2) Preprocess data
+- GS_DATA_preprocess_one_year_data_Wind.py
+- GS_DATA_preprocess_one_year_data_ACE.py
+- GS_DATA_preprocess_ElectronPitchAngle.py
+
+These three files are used to preprocess downloaded data. Please specify input data file name and the path to save output data.
