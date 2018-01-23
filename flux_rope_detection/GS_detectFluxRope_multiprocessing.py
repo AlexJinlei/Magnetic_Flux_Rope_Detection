@@ -509,7 +509,7 @@ for i in range(len(duration_range_list)):
 
 duration_range_tuple = tuple(duration_range_list)
 duration_range_tuple = tuple(tuple(element) for element in duration_range_list)
-
+print('duration_range_tuple: {}'.format(duration_range_tuple))
 
 # Set root directory.
 rootDir = setRootDir('macbook') # macbook, blueshark, or bladerunner.
