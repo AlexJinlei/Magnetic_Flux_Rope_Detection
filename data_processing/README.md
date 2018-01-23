@@ -23,3 +23,13 @@ Please specify year, start date and end date in the first a few lines in each co
 - GS_DATA_preprocess_ElectronPitchAngle.py
 
 These three files are used to preprocess downloaded data. Please specify input data file name and the path to save output data.
+
+### 3) Process data from other data source
+- GS_DATA_convertShockList_to_DF.py
+
+This file convert shock list data to pandas.DataFrame format.
+
+### 4) Check processed data
+- GS_DATA_check_processed_DataFrame.py
+
+This file plot the original and the processed data to check the quality.
