@@ -11,4 +11,4 @@ If you input command as "python GS_detectFluxRope_multiprocessing.py 1996 10 50 
 ### Input
 The input file has the name format GS_1996_AllData_DataFrame_preprocessed.p, where 1996 is year. It contains all needed data to detect flux ropes.
 ### Output
-The output files have the name format 1996_true_9\~16min.p or 1996_false_9\~16min.p, where 1996 is year, 9~16min is the duration range in minutes, true or false indicate whether they can be flux rope candidate. All results labeled as true have turning point on top, and al results labeled as false have turning point on bottom, which means the structure center has lower total pressure than the outer part, which does not consistent with flux rope feature.
+The output files have the name format 1996_true_9\~16min.p or 1996_false_9\~16min.p, where 1996 is year, 9\~16min is the duration range in minutes, true or false indicate whether they can be flux rope candidate. All results labeled as true have turning point on top, and al results labeled as false have turning point on bottom, which means the structure center has lower total pressure than the outer part, which does not consistent with flux rope feature.
