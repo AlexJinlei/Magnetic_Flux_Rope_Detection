@@ -1,5 +1,5 @@
 '''
-Calculate covariance of three componets of magnetic field.
+Process electron pitch angel data.
 '''
 import os
 import time
