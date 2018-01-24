@@ -14,4 +14,5 @@ Input the non-overlapped records, output flux rope record list with detailed inf
 ### 4) GS_applyMoreCriteria_addMoreEntry.py
 Input the flux rope record list with detailed information, add more entries, such as wait time, shock time, days to nearest HCS, days to reconnection exhaust. Then apply some criteria, such as duration. Output the flux rope record list with more detailed information.
 
-
+## 3. MISCELLANEOUS
+You may want to change the input/output directories.
