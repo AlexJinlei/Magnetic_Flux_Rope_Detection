@@ -10,5 +10,6 @@ The main page of the website is manually coded, which is under the folder websit
 ![ScreenShot](website_main_page/Main_Page_Screen_Shot.png)
 
 ### 2) Record lists
-Execute WEB_generate_html_form.py to generate Record lists. The command format is: python WEB_generate_html_form.py \[year\]. The Record lists page are organized by year. This is the screen shot of the record lists page.
+Execute WEB_generate_html_form.py to generate Record lists. The command format is: python WEB_generate_html_form.py \[year\]. The Record lists page are organized by year. [This](webpage_screen_shot/Record_List_Screen_Shot.png) is the screen shot of the record lists page.
+![ScreenShot](webpage_screen_shot/Record_List_Screen_Shot.png)
 
