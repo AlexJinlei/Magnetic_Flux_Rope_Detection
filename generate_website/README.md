@@ -30,10 +30,14 @@ Organize the generated html files and plots in the following way on server:
     - events \(Folder contains all event pages.\)
       - 199601010201_199601010256.html \(First event page.\)
       - 199607281415_199607281625.html \(Second event page.\)
-      
-    ...
-      
+      - ...
       - 199607281220_199607281405.html \(The last event page.\)
-      
-    - images
+    - images \(Folder contains all images for the event pages.\)
+      - 199601010201_199601010256.png
+      - 199607281415_199607281625.png
+      - ...
+      - 199607281220_199607281405.png
   - 1997
+  - 1998
+  - ...
+  - 2016
