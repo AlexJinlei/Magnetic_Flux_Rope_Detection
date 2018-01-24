@@ -16,4 +16,4 @@ The output files have the name format 1996_true_9\~16min.p or 1996_false_9\~16mi
 ## 3. OTHER PARAMETERS
 - This is a multiprocessing code, you can specify how many CPU cores to be used at the same time by specifying the value of the variable max_processes.
 - You may want to change the input and output directories.
-- You may want to change the log directories.
+- You may want to turn off the log or change the log directory.
