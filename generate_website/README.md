@@ -17,3 +17,13 @@ Execute WEB_generate_html_form.py to generate Record lists. The command format i
 Execute WEB_plotFluxRopeCandidate.py to generate plots used in webpage for each event. The command format is: python WEB_plotFluxRopeCandidate.py \[year\]. Then, execute WEB_generate_html_event_page.py to generate webpage for each event. The command format is: python WEB_generate_html_event_page.py \[year\]. [This](webpage_screen_shot/Event_Page_Screen_Shot.png) is the screen shot of the record lists page.
 ![ScreenShot](webpage_screen_shot/Event_Page_Screen_Shot.png)
 
+### 4) Website Map
+Organize the generated html files and plots in the following way on server:
+- public_html \(Folder name subject to change according to the web services on your server.\)
+  - index.html \(This is the main page.\)
+  - mainPageLogo
+    - NASA_logo_400x331.png
+    - NSF_logo_200X200.jpg
+    - scostep_varsiti_logo_700X550.jpg
+  - 1996
+  - 1997
