@@ -41,3 +41,6 @@ Organize the generated html files and plots in the following way on server:
   - 1998
   - ...
   - 2016
+
+## 3.DOMAIN NAME
+The online website is accessable via www.fluxrope.info or www.fluxrope.com.
