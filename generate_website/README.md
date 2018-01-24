@@ -19,11 +19,21 @@ Execute WEB_plotFluxRopeCandidate.py to generate plots used in webpage for each 
 
 ### 4) Website Map
 Organize the generated html files and plots in the following way on server:
-> public_html \(Folder name subject to change according to the web services on your server.\)
-  > index.html \(This is the main page.\)
-  > mainPageLogo
+- public_html \(Folder name subject to change according to the web services on your server.\)
+  - index.html \(This is the main page.\)
+  - mainPageLogo \(Folder contains logo pictures.\)
     - NASA_logo_400x331.png
     - NSF_logo_200X200.jpg
     - scostep_varsiti_logo_700X550.jpg
-  - 1996
+  - 1996 \(Folder contains webpage files for each year.\)
+    - year1996.html
+    - events
+      - 199601010201_199601010256.html
+      - 199607281415_199607281625.html
+      
+      ...
+      
+      - 199607281220_199607281405.html
+      
+    - images
   - 1997
