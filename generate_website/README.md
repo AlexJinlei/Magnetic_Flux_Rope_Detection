@@ -26,14 +26,14 @@ Organize the generated html files and plots in the following way on server:
     - NSF_logo_200X200.jpg
     - scostep_varsiti_logo_700X550.jpg
   - 1996 \(Folder contains webpage files for each year.\)
-    - year1996.html
-    - events
-      - 199601010201_199601010256.html
-      - 199607281415_199607281625.html
+    - year1996.html \(Record list webpage.\)
+    - events \(Folder contains all event pages.\)
+      - 199601010201_199601010256.html \(First event page.\)
+      - 199607281415_199607281625.html \(Second event page.\)
       
-      ...
+    ...
       
-      - 199607281220_199607281405.html
+      - 199607281220_199607281405.html \(The last event page.\)
       
     - images
   - 1997
