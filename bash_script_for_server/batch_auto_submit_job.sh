@@ -11,7 +11,7 @@ time="7-00:00:00"
 partition="long"
 
 # Duration range, must be in python tuple format, no blank space.
-duration="((30,40),(40,50))" # No blank space within string. The trailing "," is required if there is only one element in tuple, i.e., "((60,80),)"
+duration="((60,80),(80,100))" # No blank space within string. The trailing "," is required if there is only one element in tuple, i.e., "((60,80),)"
 
 # Root Directory
 rootDir="/your_path/" # For blueshark.
