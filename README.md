@@ -27,3 +27,17 @@ This code set contains 4 folders: a) [data_processing](data_processing/), b) [fl
 This code set is an upgraded version of the previous code set. In this set, all functions are modularized and are contained in a importable package wich is named by [MyPythonPackage](all_in_one_detection_package/MyPythonPackage/). The main functions are under [all_in_one_detection_package](all_in_one_detection_package/) folder. Please read [this instruction](all_in_one_detection_package/README.md) before use this package.
 
 ## 5. FINAL PRODUCT
+The final product of this project is a comprehensive small-scale magnetic flux rope database that is hosted by a website. Please read [this instruction](generate_website/README.md) to get more details of the website. Following is the screenshots of the main page, flux rope list page, and flux rope event page.  
+
+### 1) Main Page
+
+[This](webpage_screen_shot/Main_Page_Screen_Shot.png) is the screen shot of the main page.
+![ScreenShot](webpage_screen_shot/Main_Page_Screen_Shot.png)
+
+### 2) Record Lists
+[This](webpage_screen_shot/Record_List_Screen_Shot.png) is the screen shot of the record lists page.
+![ScreenShot](webpage_screen_shot/Record_List_Screen_Shot.png)
+
+### 3) Event Pages and Plots
+[This](webpage_screen_shot/Event_Page_Screen_Shot.png) is the screen shot of the record lists page.
+![ScreenShot](webpage_screen_shot/Event_Page_Screen_Shot.png)
