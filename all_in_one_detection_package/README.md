@@ -13,3 +13,8 @@ This code can detect the flux ropes downstream the shock \(observed by Wind or A
 
 ## 2. USAGE
 Specify the spacecraft, the start time, and end time in the code. The run the python code.
+
+## 3. RESULT
+The following plot is the detection result which show the detected flux ropes observed by ACE and Wind spacecrafts. The yellow shaded intervals represent flux rope time range. 
+
+![result](all_in_one_detection_package/result_sample/combined/200208181810.png)
