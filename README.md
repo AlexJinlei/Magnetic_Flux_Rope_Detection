@@ -8,14 +8,16 @@ Following is the flowchart of core detection algorithm. Please refer to chapter 
 
 ![flowchart](phd_dissertation/GS_flowchart_www_draw_io_v3_1.png)
 ## 4. CODE SETS
+This project contains two sets of code. One set is used for detecting huge number of small-scale flux ropes across tens of years. The core detection code is high CPU intensive, which is intended to run on cluster server. Other tasks, such as downloading data, preprocessing data, postprocessing detected results, generating website, need less computing resource, which are intended to run on desktop computer or laptop computer.  
 ### 1) Code Used for Large Scale Detection
-This project contains two sets of code. One set is used for detecting huge number of small-scale flux ropes across tens of years. The core detection code is high CPU intensive, which is intended to run on cluster server. Other tasks, such as downloading data, preprocessing data, postprocessing detected results, generating website, need less computing resource, which are intended to run on desktop computer or laptop computer.  This code set contains 4 folders: a) [data_processing](data_processing/), b) [flux_rope_detection](\flux_rope_detection), c) [process_detected_result](process_detected_result/), d) [generate_website](generate_website/).
+This code set contains 4 folders: a) [data_processing](data_processing/), b) [flux_rope_detection](\flux_rope_detection), c) [process_detected_result](process_detected_result/), d) [generate_website](generate_website/).
 - a) [data_processing](data_processing/):  
      Use this package to download and preprocess data. Please read this [instruction](data_processing/README.md).
 - b) [flux_rope_detection](\flux_rope_detection):  
-     Use this package to apply the detection algorithm to the preprocessed data. Please read this [instruction](flux_rope_detection/README.md).
+     Use this package to apply the detection algorithm to the preprocessed data. Please read this [instruction](flux_rope_detection/README.md). This code is intended to run on high performance server. The code is parallelized.
 - c) [process_detected_result](process_detected_result/):  
      Use this package to combine and clean raw results. Please read this [instruction](process_detected_result/README.md).
 - d) [generate_website](generate_website/):  
      Use this package to create a website contains all detected flux ropes. Please read this [instruction](generate_website/README.md).
+### 2) Code Used for Short Time Range Quick Detection
 
