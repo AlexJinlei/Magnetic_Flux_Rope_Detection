@@ -20,4 +20,4 @@ This code set contains 4 folders: a) [data_processing](data_processing/), b) [fl
 - d) [generate_website](generate_website/):  
      Use this package to create a website contains all detected flux ropes. Please read this [instruction](generate_website/README.md).
 ### 2) Code Used for Short Time Range Quick Detection
-
+This code set is an upgraded version of the previous code set. In this set, all functions are modularized and are contained in a importable package wich is named by [MyPythonPackage](all_in_one_detection_package/MyPythonPackage/). The main functions are under [all_in_one_detection_package](all_in_one_detection_package/) folder. Please read this [instruction](all_in_one_detection_package/README.md) before use this package.
