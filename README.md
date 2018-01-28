@@ -31,13 +31,13 @@ The final product of this project is a comprehensive small-scale magnetic flux r
 
 ### 1) Main Page
 
-[This](webpage_screen_shot/Main_Page_Screen_Shot.png) is the screen shot of the main page.
-![ScreenShot](webpage_screen_shot/Main_Page_Screen_Shot.png)
+[This](generate_website/webpage_screen_shot/Main_Page_Screen_Shot.png) is the screen shot of the main page.
+![ScreenShot](generate_website/webpage_screen_shot/Main_Page_Screen_Shot.png)
 
 ### 2) Record Lists
-[This](webpage_screen_shot/Record_List_Screen_Shot.png) is the screen shot of the record lists page.
-![ScreenShot](webpage_screen_shot/Record_List_Screen_Shot.png)
+[This](generate_website/webpage_screen_shot/Record_List_Screen_Shot.png) is the screen shot of the record lists page.
+![ScreenShot](generate_website/webpage_screen_shot/Record_List_Screen_Shot.png)
 
 ### 3) Event Pages and Plots
-[This](webpage_screen_shot/Event_Page_Screen_Shot.png) is the screen shot of the record lists page.
-![ScreenShot](webpage_screen_shot/Event_Page_Screen_Shot.png)
+[This](generate_website/webpage_screen_shot/Event_Page_Screen_Shot.png) is the screen shot of the record lists page.
+![ScreenShot](generate_website/webpage_screen_shot/Event_Page_Screen_Shot.png)
