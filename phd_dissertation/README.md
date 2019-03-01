@@ -4,6 +4,10 @@ This folder contains my PhD dissertation and the publications during my PhD peri
 ## 1. PHD DISSERTATION
 - Jinlei_PhD_Dissertation_part1_ch1-3.pdf
 - Jinlei_PhD_Dissertation_part2_ch4-6.pdf
+## 2. PHD DEFENSE SLIDES
+My PhD defense slides are brief and clear introduction to my work.
+- PhD_defense_slides_part1_page1-27.pdf
+- PhD_defense_slides_part2_page28-53.pdf
 ## 2. PUBLICATIONS
 - \[Zheng 2018b\]Automated Detection of Small-scale Magnetic Flux Ropes in the Solar Wind_ First Results from the Wind Spacecraft Measurements.pdf
 - \[Zheng 2018\]Observational Evidence for Self-generation of Small-scale Magnetic Flux Ropes from Intermittent Solar Wind Turbulence.pdf
